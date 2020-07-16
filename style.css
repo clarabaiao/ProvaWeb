@@ -1,0 +1,38 @@
+html {
+  font-family: "Calibri";
+  background-image: url(https://i.pinimg.com/originals/11/50/d8/1150d80e019d4563bda37eb4e48ee9bb.jpg);
+color: yellow;
+}
+
+h1 {
+  font-size: 56px;
+  text-align: center;
+
+}
+h2 {
+  font-size: 30px;
+  text-align: center;
+}
+h3 {
+  font-size: 35px;
+text-align: center;
+}
+
+body {
+width: 800px;
+height: 1050px;
+  margin: 0 auto;
+  background-color: rgba(160,6,200,0.6);
+  border: 9px solid purple;
+
+}
+
+p, li {
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 2px;
+}
+
+a {
+  color: yellow;
+}
